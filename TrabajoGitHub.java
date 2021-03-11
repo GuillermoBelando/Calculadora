@@ -15,7 +15,8 @@ public class TrabajoGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        int mayor = 0;
+        int menor = 0;
     }
     
 }
